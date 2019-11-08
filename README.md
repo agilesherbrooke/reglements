@@ -6,7 +6,7 @@ ___
 
 ## SECTION I - Généralités
 ### ARTICLE 1.1 - Nom
-Aux fins des présents règlements généraux, l’expression «la communauté» signifie la communauté Agile de Sherbrooke, désignée aussi sous le vocable Agile Sherbrooke.
+Aux fins des présents règlements généraux, l’expression « la communauté » signifie la communauté Agile de Sherbrooke, désignée aussi sous le vocable Agile Sherbrooke.
 
 ### ARTICLE 1.2 - Objectifs
 Originellement fondée en 2014 sous l’impulsion de quatre professionnels passionnés de l’Agilité, la Communauté Agile de Sherbrooke, Organisme Sans But Lucratif, a pour mission de favoriser et de soutenir l'échange d'idées, de connaissances et d'expériences concernant le développement Agile de logiciels ainsi que ses méthodes et pratiques (XP, Scrum, modélisation Agile, etc.), afin de permettre de produire et livrer des solutions d’une plus grande valeur d’affaires, de meilleure qualité en augmentant significativement la satisfaction des personnes impliquées dans cette création.
